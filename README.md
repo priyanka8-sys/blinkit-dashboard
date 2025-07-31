@@ -47,5 +47,5 @@ Make informed strategic decisions
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_view.png)
+![Dashboard Screenshot](dashboard_view.png)
 
